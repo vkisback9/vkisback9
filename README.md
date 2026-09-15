@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm Vishal Kumar 👋
 
-<!--
-**vkisback9/vkisback9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🦋 Lorenz Attractor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> An animated visualization of the Lorenz chaotic system.
+
+### 🚀 Technologies
+
+HTML • SVG • JavaScript
+
+### 📐 Parameters
+
+σ = 10  
+ρ = 35  
+β = 8/3
+
+
+### 🔗 Live Demo
+
+[🦋 View Lorenz Attractor](https://vkisback9.github.io/lorenz-attractor/)
